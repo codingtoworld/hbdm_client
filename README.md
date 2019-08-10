@@ -79,3 +79,19 @@ MAX_PROCESS_COUNTS = 8            # 当日最大执行操作次数
 主窗口：
 
 ![image](https://raw.githubusercontent.com/codingtoworld/hbdm_client/master/main_form.png)
+
+
+## 附加说明
+> 自动止损，止盈部分涉及到每个人的策略不同，在服务器端删除了这部分代码，你可以根据自己特性添加。
+
+## 捐赠和定制化服务
+
+### How to donate?
+![image](https://resource.bnbstatic.com/images/20180806/1533543864307_s.png) BitCoin: 1K5apYN4k3UNdymo3qSfRWAehgri3skczQ
+
+![image](https://resource.bnbstatic.com/images/20180806/1533543997535_s.png) ETH: 0x1eee99743dfddf6a4b6402047c1946ce9943c965
+
+![image](https://resource.bnbstatic.com/images/20180810/1533888627851_s.png) USDT: 1KYvKoWDfoY8Xm2VNKoRWC9HgxtV3MbJRp
+
+### 定制服务
+请联系 coddingtoworld@gmail.com 洽谈
