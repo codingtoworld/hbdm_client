@@ -1,4 +1,5 @@
 # 火币合约交易客户端
+本客户端需配合服务器端一起使用。[请看视频了解](https://www.youtube.com/watch?v=BEpTDYT2KsA)
 
 ## 文件列表
 ```markdown
