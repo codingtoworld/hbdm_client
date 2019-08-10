@@ -46,7 +46,7 @@
 ## 如何使用
 
 1、 需要先部署安装服务器端程序，参见服务器部分介绍和说明
-> 参考 [服务器端项目](https://github.com/codingtoworld/hbdm_client)
+> 参考 [服务器端项目](https://github.com/codingtoworld/hbdm_server)
 
 2、 安装Python环境，建议使用Python3.6以上环境，可以参考以下视频：
 
