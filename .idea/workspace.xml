@@ -4,8 +4,6 @@
     <list default="true" id="df00c849-c020-4787-9575-d01d8e7c0c41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/hbdm_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hbdm_main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="343">
-                <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <first_editor relative-caret-position="342">
+                <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
               </first_editor>
               <second_editor />
             </state>
@@ -187,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565402650340</updated>
       <workItem from="1565402652653" duration="1446000" />
-      <workItem from="1565404237498" duration="2298000" />
+      <workItem from="1565404237498" duration="3556000" />
     </task>
     <task id="LOCAL-00001" summary="Ver1.0">
       <created>1565403861124</created>
@@ -196,11 +194,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565403861124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ver1.0">
+      <created>1565406562644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565406562644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加窗口图片">
+      <created>1565407127790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565407127790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3744000" />
+    <option name="totallyTimeSpent" value="5002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
@@ -238,7 +250,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Ver1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ver1.0" />
+    <MESSAGE value="添加窗口图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加窗口图片" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../hbdm/client/tk.py">
@@ -301,8 +314,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="343">
-            <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <first_editor relative-caret-position="342">
+            <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
           </first_editor>
           <second_editor />
         </state>
