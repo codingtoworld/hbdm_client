@@ -1,4 +1,4 @@
-# 火币合约交易服务器和客户端
+# 火币合约交易客户端
 
 ## 文件列表
 ```markdown
@@ -70,3 +70,11 @@ MAX_PROCESS_COUNTS = 8            # 当日最大执行操作次数
 ```
 
 6、运行该快捷方式启动，直接双击运行即可
+
+登录窗口：
+
+![image](https://raw.githubusercontent.com/codingtoworld/hbdm_client/master/login_form.png)
+
+主窗口：
+
+![image](https://raw.githubusercontent.com/codingtoworld/hbdm_client/master/main_form.png)
