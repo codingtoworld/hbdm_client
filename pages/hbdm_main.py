@@ -23,7 +23,7 @@ except ImportError:
     py3 = True
 from api.utils import *
 from pages.datas_page import DatasPage
-
+from config import MAX_PROCESS_COUNTS
 
 # 自定义float类型输入Entry
 class FloatEntry(tk.Entry):
@@ -68,7 +68,7 @@ class MainPage:
     ]
     server_time = 0
     datasPage = None
-    tradeTimes = 8  # 每天最多进行的交易次数 防止黑天鹅 交易要有节制
+    tradeTimes = MAX_PROCESS_COUNTS  # 每天最多进行的交易次数 防止黑天鹅 交易要有节制
 
     def __init__(self, top=None, win_main=None):
 
